@@ -171,6 +171,21 @@ Durante a validação da solução foram processadas:
 - Integração com telefonia e CRM
 
 ---
+## 💰 Viabilidade Financeira
+
+Além dos ganhos operacionais, o projeto inclui uma análise de custos e retorno sobre investimento (ROI) para validar a utilização da Inteligência Artificial em larga escala.
+
+### Benefícios Financeiros
+
+* Auditoria automática de 100% das chamadas qualificadas.
+* Redução superior a 95% dos custos em comparação ao modelo tradicional de auditoria manual.
+* Custo médio aproximado de R$ 0,11 por chamada auditada.
+* Escalabilidade sem necessidade de ampliação proporcional da equipe de monitoria.
+* Feedback imediato para gestores e SDRs, acelerando ciclos de melhoria contínua.
+
+### Impacto no Negócio
+
+A solução transforma um processo tradicionalmente manual e amostral em uma operação escalável, permitindo monitorar integralmente a qualidade dos atendimentos com baixo custo operacional e alto potencial de retorno para áreas comerciais e de atendimento.
 
 ## 🛠️ Tecnologias Utilizadas
 
